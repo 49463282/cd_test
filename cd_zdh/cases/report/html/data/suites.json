@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "cd_login",
+    "children" : [ {
+      "name" : "Cd_login.test_login",
+      "uid" : "5d1caa46eba6328c",
+      "parentUid" : "616d068bd6da42218c6ea43940c19c7e",
+      "status" : "failed",
+      "time" : {
+        "start" : 1570380207057,
+        "stop" : 1570380227338,
+        "duration" : 20281
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "616d068bd6da42218c6ea43940c19c7e"
+  } ]
+}

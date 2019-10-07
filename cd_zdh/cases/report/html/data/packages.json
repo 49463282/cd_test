@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "cd_login",
+    "children" : [ {
+      "name" : "Cd_login.test_login",
+      "uid" : "5d1caa46eba6328c",
+      "parentUid" : "89e1d03e2c62c9acf7db4b738fd71579",
+      "status" : "failed",
+      "time" : {
+        "start" : 1570380207057,
+        "stop" : 1570380227338,
+        "duration" : 20281
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "89e1d03e2c62c9acf7db4b738fd71579"
+  } ]
+}

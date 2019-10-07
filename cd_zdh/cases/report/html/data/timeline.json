@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-2K1GNHDL",
+    "children" : [ {
+      "name" : "15212-MainThread",
+      "children" : [ {
+        "name" : "Cd_login.test_login",
+        "uid" : "5d1caa46eba6328c",
+        "parentUid" : "f9fb3d7278745d33e25581679faf7bd7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1570380207057,
+          "stop" : 1570380227338,
+          "duration" : 20281
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f9fb3d7278745d33e25581679faf7bd7"
+    } ],
+    "uid" : "a7d35a7586c854d1dfc8aef20ca821b7"
+  } ]
+}
