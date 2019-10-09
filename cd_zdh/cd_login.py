@@ -2,6 +2,7 @@ from selenium import webdriver
 import unittest
 import time
 import sys
+import pytest
 
 
 class Cd_login(unittest.TestCase):
@@ -20,7 +21,7 @@ class Cd_login(unittest.TestCase):
     def test_login(self):
         driver = self.driver
         driver.add_cookie({"name": "Admin-Token",
-                           "value": "41404620-c368-4a68-bcfd-e12844e9c115"})
+                           "value": "a0008353-37f1-4b91-9bd8-390ba2ed0523"})
         driver.refresh()
         gs = driver.find_element_by_class_name("store-detail").text
         zh = driver.find_element_by_xpath(
@@ -39,4 +40,4 @@ class Cd_login(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main("cd_login.py")
