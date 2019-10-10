@@ -3,7 +3,7 @@ import unittest
 import time
 import sys
 import pytest
-
+from time import sleep
 
 class Cd_login(unittest.TestCase):
 
@@ -26,6 +26,7 @@ class Cd_login(unittest.TestCase):
         gs = driver.find_element_by_class_name("store-detail").text
         zh = driver.find_element_by_xpath(
             "/html/body/div/div/div[2]/div/div[2]/div[2]/div").text
+        sleep(5)
 
         try:
             self.assertIn(gs, "全部分公司")

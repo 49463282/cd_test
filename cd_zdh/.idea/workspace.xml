@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cba4bb30-98c5-45b0-bb58-23a3ee36c295" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cases/cd_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/cd_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cases/cd_login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cd_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -48,6 +59,7 @@
         <option value="$PROJECT_DIR$/cases/setout.py" />
         <option value="$PROJECT_DIR$/../测试资料/web自动化/day05-Web自动化05/04-代码/04-代码/webday05/hm05_07_断言使用案例_截图优化.py" />
         <option value="$PROJECT_DIR$/cases/cd_login.py" />
+        <option value="$PROJECT_DIR$/cd_login.py" />
       </list>
     </option>
   </component>
@@ -63,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,7 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -98,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for cd_login.Cd_login.test_login">
+  <component name="RunManager" selected="Python tests.Unittests for cd_login.Cd_login.test_login (1)">
     <configuration name="hm05_07_断言使用案例_截图优化" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cd_zdh" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,31 +132,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for cases.cd_login.Setout.test_log" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for cd_login.Cd_login.test_login (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="cd_zdh" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;cases.cd_login.Setout.test_log&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for cd_login.Cd_login.test_log" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="cd_zdh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;cd_login.Cd_login.test_log&quot;" />
+      <option name="_new_target" value="&quot;cd_login.Cd_login.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -160,6 +158,20 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;cd_login.Cd_login.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in cd_login.py (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cd_zdh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cd_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in cd_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -178,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for cd_login.Cd_login.test_login (1)" />
+        <item itemvalue="Python tests.Unittests in cd_login.py (1)" />
         <item itemvalue="Python tests.Unittests for cd_login.Cd_login.test_login" />
         <item itemvalue="Python tests.Unittests in cd_login.py" />
         <item itemvalue="Python.hm05_07_断言使用案例_截图优化" />
-        <item itemvalue="Python tests.Unittests for cd_login.Cd_login.test_log" />
-        <item itemvalue="Python tests.Unittests for cases.cd_login.Setout.test_log" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570409867952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改token">
+      <created>1570701117428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570701117428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -282,18 +301,18 @@
     <entry file="file://$PROJECT_DIR$/../测试资料/web自动化/day05-Web自动化05/04-代码/04-代码/webday05/hm05_07_断言使用案例_截图优化.py" />
     <entry file="file://$PROJECT_DIR$/../测试资料/web自动化/day05-Web自动化05/04-代码/04-代码/webday05/hm05_07_断言使用案例_错误信息获取.py" />
     <entry file="file://$PROJECT_DIR$/cases/geckodriver.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/'18549811213' not found in '1854981121' 2019-10-01 08_36_22.png" />
     <entry file="file://$PROJECT_DIR$/cases/cd_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -302,6 +321,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cases/report/a680b5d3-1ca0-49e9-87ad-2ac5cb5d93b7-testsuite.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cd_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
