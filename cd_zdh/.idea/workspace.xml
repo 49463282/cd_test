@@ -15,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cases/cd_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="600">
               <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -24,11 +24,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cd_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="34" />
+            <state relative-caret-position="455">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://C:/Program Files (x86)/Jenkins/workspace/cd_zdh_uat/cd_zdh/cases/cd_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-273">
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -75,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,6 +102,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,16 +234,17 @@
       <option name="project" value="LOCAL" />
       <updated>1570701117428</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加等待时间">
+      <created>1570706543808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570706543808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_cd_login_py - 2019.10.01 at 07h 36m 39s.xml">
-      <configuration name="Unittests in cd_login.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_cd_login_py - 2019.10.01 at 07h 37m 52s.xml">
-      <configuration name="Unittests in cd_login.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_cd_login_py - 2019.10.01 at 07h 38m 53s.xml">
       <configuration name="Unittests in cd_login.py" configurationId="tests" />
     </history-entry>
@@ -257,6 +269,12 @@
     <history-entry file="Unittests_for_cd_login_Cd_login_test_login - 2019.10.07 at 00h 40m 23s.xml">
       <configuration name="Unittests for cd_login.Cd_login.test_login" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_cd_login_py_(1) - 2019.10.10 at 19h 20m 23s.xml">
+      <configuration name="Unittests in cd_login.py (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_cd_login_Cd_login_test_login_(1) - 2019.10.10 at 19h 21m 51s.xml">
+      <configuration name="Unittests for cd_login.Cd_login.test_login (1)" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,20 +287,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24702774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3536068" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3526912" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281471" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -292,7 +309,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改token" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改token" />
+    <MESSAGE value="增加等待时间" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加等待时间" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cases/2019-10-01 08_22_02 '18549811213' not found in '1854981121'.png" />
@@ -311,7 +329,7 @@
     <entry file="file://$PROJECT_DIR$/images/'18549811213' not found in '1854981121' 2019-10-01 08_36_22.png" />
     <entry file="file://$PROJECT_DIR$/cases/cd_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="600">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -324,8 +342,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cd_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="455">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Jenkins/workspace/cd_zdh_uat/cd_zdh/cases/cd_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
