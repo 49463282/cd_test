@@ -21,11 +21,7 @@ class Cd_login(unittest.TestCase):
     def test_login(self):
         driver = self.driver
         driver.add_cookie({"name": "Admin-Token",
-<<<<<<< HEAD
                            "value": "680d6358-ef55-491f-97d1-1030af6dcaa2"})
-=======
-                           "value": "1f7ddbea-7932-4c81-a427-1c45a97bf9cd"})
->>>>>>> 2caedea26f231ef0ef43da5d4de06cf77a2b7780
         driver.refresh()
         gs = driver.find_element_by_class_name("store-detail").text
         zh = driver.find_element_by_xpath(
