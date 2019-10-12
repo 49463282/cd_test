@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27626357-a514-497e-90c2-b651fbc85740" name="Default Changelist" comment="修改token" />
+    <list default="true" id="27626357-a514-497e-90c2-b651fbc85740" name="Default Changelist" comment="修改token">
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cd_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/cd_login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cd_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            <state relative-caret-position="468">
+              <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -128,8 +131,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cd_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="468">
+          <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
